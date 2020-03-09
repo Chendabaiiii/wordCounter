@@ -26,5 +26,5 @@ name | 价格 |  数量
 草莓 | $1 | 7 |
 
 PSP2.1 | Personal Software Process Stages | 预估耗时（分钟） | 实际耗时（分钟）
-- | - | - | -
+-|-|-|-
 Planning | 计划 | 20 | 20
