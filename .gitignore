@@ -1,17 +1,1 @@
 *.opendb
-*.sln
-
-/Debug
-
-*.obj
-*.idb
-*.pdb
-*.log
-*.tlog
-*.lastbuildstate
-
-*.vcxproj.filters
-*.vcxproj.user
-*.vcxproj
-
-/.vs
